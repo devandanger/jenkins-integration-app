@@ -25,7 +25,6 @@
 		96818ECF17FABAC6002EBDE5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 96818EC917FABAC6002EBDE5 /* README.md */; };
 		96818ED017FABAC6002EBDE5 /* release_notes.md in Resources */ = {isa = PBXBuildFile; fileRef = 96818ECA17FABAC6002EBDE5 /* release_notes.md */; };
 		96818ED217FABB5D002EBDE5 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 96818ED117FABB5D002EBDE5 /* libz.dylib */; };
-		96818ED317FABBB4002EBDE5 /* libTestFlight.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 96818EC817FABAC6002EBDE5 /* libTestFlight.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,7 +72,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				96818ED317FABBB4002EBDE5 /* libTestFlight.a in Frameworks */,
 				96818ED217FABB5D002EBDE5 /* libz.dylib in Frameworks */,
 				967531C317F95854003C8F78 /* CoreGraphics.framework in Frameworks */,
 				967531C517F95854003C8F78 /* UIKit.framework in Frameworks */,
