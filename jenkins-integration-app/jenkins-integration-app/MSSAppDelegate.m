@@ -7,12 +7,13 @@
 //
 
 #import "MSSAppDelegate.h"
+#import "TestFlight.h"
 
 @implementation MSSAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+    [TestFlight takeOff:@"c09f5262-ab75-4bb3-ba17-cc3168398275"];
     return YES;
 }
 							
